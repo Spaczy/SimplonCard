@@ -1,0 +1,55 @@
+.bloc-image{
+border: solid 4px;
+border-color: #b0215e;
+padding: 20px;
+margin-bottom: 20px;
+height: 400px;
+display: flex;
+align-items: flex-end;
+background-image:url(image.avif);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.bloc-adresse{
+    background-color: white;
+    padding: 40px;
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.brown{
+    color: brown;
+}
+
+footer{
+    text-align: center; 
+}
+
+.h1{
+    margin-left: 200px;
+}
+
+a.section.div.h2{
+    text-decoration-line: none;
+}
+
+.buttonstyle{
+    border: solid 1px;
+    color: white;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    background-color: rgb(225, 35, 174);
+}
+
+.buttonstyle:hover{
+    border: solid 1px;
+    color: rgb(225, 35, 174);
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
